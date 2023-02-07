@@ -1,9 +1,10 @@
 ### Hi there 👋 Wellcome to my Profile
 
-🔭 I’m currently working how: Coordinator QA 
-🌱 I’m currently learning Python and JS 
-😄 Pronouns: He / his 
+🔭 I’m currently working how: Coordiator QA
+🌱 I’m currently learning Python and JS
+😄 Pronouns: He / his
 ⚡ Fun fact: Starting to love programing
+
 ##
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robsonfounar&theme=github_dark&show_icons=true)
