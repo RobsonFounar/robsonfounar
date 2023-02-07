@@ -1,9 +1,9 @@
 ### Hi there 👋 Wellcome to my Profile
 
-🔭 I’m currently working how: Coordiator QA
-🌱 I’m currently learning Python and JS
-😄 Pronouns: He / his
-⚡ Fun fact: Starting to love programing
+- 🔭 I’m currently working how: Coordiator QA
+- 🌱 I’m currently learning Python and JS
+- 😄 Pronouns: He / his
+- ⚡ Fun fact: Starting to love programing
 
 ##
  
